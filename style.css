@@ -1,0 +1,10 @@
+    body{
+        background-color: rgb(110, 112, 235);
+    }    
+    h1{
+        color:azure;
+    }
+    table, th, td{
+        border: 2px dashed black;
+        text-align: center;
+    }

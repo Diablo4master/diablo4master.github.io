@@ -1,13 +1,26 @@
     body{
-        background-color: rgb(110, 112, 235);
+        background-color: rgb(74, 23, 162);
     }    
     h1{
         color:azure;
     }
     table, th, td{
-        border: 2px dashed black;
+        border: 2px dashed cyan;
         text-align: center;
+        color: whitesmoke;
     }
     p{
         color: azure;
+    }
+    a{
+        color: aqua;
+    }
+    ul{
+        color: aliceblue;
+    }
+    h2{
+        color: aliceblue
+    }
+    img{
+        width: 200px;
     }

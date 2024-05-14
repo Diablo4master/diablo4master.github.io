@@ -5,7 +5,7 @@
         color:azure;
     }
     table, th, td{
-        border: 2px dashed cyan;
+        border: 2px dashed rgb(23, 210, 210);
         text-align: center;
         color: whitesmoke;
     }
